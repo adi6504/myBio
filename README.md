@@ -1,6 +1,6 @@
 <!-- Introduction -->
 # Hi there! 👋
-I'm Aditya, a passionate Software Developer from [Your Location]. Welcome to my GitHub profile!
+I'm Aditya, a passionate Software Developer from India. Welcome to my GitHub profile!
 
 <!-- About Me -->
 ## 🌟 About Me
